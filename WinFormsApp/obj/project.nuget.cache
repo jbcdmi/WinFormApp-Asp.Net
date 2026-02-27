@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "vl4QCxNQ+ss=",
+  "success": true,
+  "projectFilePath": "D:\\bhautik jogani\\WinFormsApp\\WinFormsApp\\WinFormsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\pc15\\.nuget\\packages\\system.configuration.configurationmanager\\10.0.3\\system.configuration.configurationmanager.10.0.3.nupkg.sha512",
+    "C:\\Users\\pc15\\.nuget\\packages\\system.data.oledb\\10.0.3\\system.data.oledb.10.0.3.nupkg.sha512",
+    "C:\\Users\\pc15\\.nuget\\packages\\system.diagnostics.eventlog\\10.0.3\\system.diagnostics.eventlog.10.0.3.nupkg.sha512",
+    "C:\\Users\\pc15\\.nuget\\packages\\system.diagnostics.performancecounter\\10.0.3\\system.diagnostics.performancecounter.10.0.3.nupkg.sha512",
+    "C:\\Users\\pc15\\.nuget\\packages\\system.security.cryptography.protecteddata\\10.0.3\\system.security.cryptography.protecteddata.10.0.3.nupkg.sha512",
+    "C:\\Users\\pc15\\.nuget\\packages\\system.threading.accesscontrol\\10.0.3\\system.threading.accesscontrol.10.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
